@@ -1,0 +1,34 @@
+body {
+	background-color: #333;
+	color: #f2f2f2;
+	text-align: center;
+	font-weight: 600;
+}
+.yellow {
+	background-color: #FFC600;
+}
+.green {
+	background-color: #01843E;
+}
+.orange {
+	background-color: #FF5B36;
+}
+.banner{
+	width:100vw;
+	height:100vh;
+}
+.video-bg{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+
+.zindex{
+	z-index: 1;
+	position: relative;
+	height:100vh;
+}
